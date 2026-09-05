@@ -6,7 +6,8 @@
   "version": "1.2.0",
   "websiteUrl": "https://kyma369.com/mcp",
   "repository": {
-    "url": "https://github.com/BCXTRUST/kyma-frequency-mcp"
+    "url": "https://github.com/BCXTRUST/kyma-frequency-mcp",
+    "source": "github"
   },
   "remotes": [
     {
