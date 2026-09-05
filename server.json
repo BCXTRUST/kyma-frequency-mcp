@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.bcxtrust/kyma-frequency-mcp",
+  "title": "KYMA Frequency MCP",
+  "description": "Search KYMA369's public frequency library and open sets in the free KYMA app.",
+  "version": "1.2.0",
+  "websiteUrl": "https://kyma369.com/mcp",
+  "repository": {
+    "url": "https://github.com/BCXTRUST/kyma-frequency-mcp"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://eaqistzhmblvuxndwfbn.supabase.co/functions/v1/freq-mcp"
+    }
+  ]
+}
